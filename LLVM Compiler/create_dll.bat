@@ -1,0 +1,1 @@
+clang++ -shared -O3 -o wind.dll D:\_WindDB\WindDB\wind.cpp
